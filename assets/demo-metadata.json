@@ -1,0 +1,12 @@
+{
+  "seed": 42,
+  "python_random_and_numpy_seeded": true,
+  "original_script_runs": 10,
+  "shown_run": 10,
+  "generations": 500,
+  "population": 100,
+  "initial_length": 1030.6926429815567,
+  "final_length": 508.5696792285526,
+  "route_validity": "All 500 shown-generation routes checked against input points and fitness.",
+  "note": "Illustration of one deterministic demonstration run, not an optimality or benchmark claim."
+}
