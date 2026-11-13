@@ -1,3 +1,5 @@
+[English](README.md) · [Slovenčina](README.sk.md) · [Русский](README.ru.md)
+
 # Genetic algorithms — experimenting with the search
 
 I spent a lot of time on these assignments: first studying how the operators work, then putting them together and tuning the early experiments. This was one of the parts of my AI coursework that I enjoyed most.
